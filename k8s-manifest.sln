@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k8s-manifest", "k8s-manifest\k8s-manifest.csproj", "{52A798DE-7616-47C5-BF38-CA2887D66191}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "create-manifest", "create-manifest\create-manifest.csproj", "{6E549680-F91F-4273-A37F-95D44D1BB620}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{52A798DE-7616-47C5-BF38-CA2887D66191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52A798DE-7616-47C5-BF38-CA2887D66191}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52A798DE-7616-47C5-BF38-CA2887D66191}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52A798DE-7616-47C5-BF38-CA2887D66191}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6E549680-F91F-4273-A37F-95D44D1BB620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6E549680-F91F-4273-A37F-95D44D1BB620}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E549680-F91F-4273-A37F-95D44D1BB620}.Release|Any CPU.ActiveCfg = Release|Any CPU
